@@ -1,0 +1,16 @@
+.card{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-items{
+    text-align: center;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 25px;
+    box-shadow: 3px 7px 5px grey;
+}
+
+.card-items h2{
+    color: red;
+}
